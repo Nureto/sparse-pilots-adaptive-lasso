@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Sparse pilots bound adaptive lasso selection: code and results"
+authors:
+  - family-names: Alabi
+    given-names: Nurudeen Olawale
+    orcid: "https://orcid.org/0000-0003-1767-5365"
+  - family-names: Oyeyemi
+    given-names: Gafar Matanmi
+    orcid: "https://orcid.org/0000-0003-2346-4185"
+license: GPL-3.0-only
+repository-code: "https://github.com/Nureto/sparse-pilots-adaptive-lasso"
+date-released: 2026-10-24

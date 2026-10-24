@@ -1,0 +1,8 @@
+Numerical checks of the propositions, 2026-10-21 11:33:57 
+R version 4.3.1 (2023-06-16 ucrt) 
+
+Check 1, Prop 1(a): cap status disagrees with the condition in 0 of 1864 configurations
+Check 2, Prop 1(c) on E1: largest absolute error 8.9e-16 over 8000 weight vectors (cap active in 0)
+Check 3, Prop 1(b),(c): largest relative error 6.6e-16 for (b) and 5.3e-16 for (c) over 3000 configurations (cap active in 0)
+Check 4, Prop 3: 30 problems (mean |S| = 15.9), 240 solves; threshold violated in 0 (W) and 0 (L); most sweeps used 141
+Check 5, Prop 4: condition (5) held in 40 of 40 problems; a pilot zero entered at some point of the path in 0 of those (in 0 problems overall)

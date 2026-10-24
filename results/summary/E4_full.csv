@@ -1,0 +1,7 @@
+"pilot","lambda_mode","nsel","pilot_nsel","Zsize","p_minus_Z","jac_pilot","readmit","dropped","cap_active"
+"lasso","fixed",39,40,4048,40,0.975,0,1,FALSE
+"lasso","retuned",10,40,4048,40,0.25,0,30,FALSE
+"huber","fixed",70,0,4088,0,0,70,0,FALSE
+"huber","retuned",38,0,4088,0,0,38,0,FALSE
+"ridge","fixed",92,4088,0,4088,0.0225048923679061,0,3996,TRUE
+"ridge","retuned",48,4088,0,4088,0.0117416829745597,0,4040,TRUE
